@@ -16,10 +16,10 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(MONGODB_URI, {
+mongoose.connect(MONGODB_URI || 'mongodb://localhost:27017/pwa-budget', {
   useNewUrlParser: true,
   useFindAndModify: false,
-  useUnifiedTopology:true
+  useUnifiedTopology: true,
 });
 
 // routes
