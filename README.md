@@ -16,11 +16,16 @@ This project is an application that allows users to add expenses and deposits to
 ## installation
 After clonig the repo run 'npm start'.
 
+## usage
+[image](https://user-images.githubusercontent.com/20363030/155906729-4be418ca-4484-4b02-a330-a27f611aa9d4.png)
+
 ## License 
 This project is license under MIT
 
 ## Contributing 
 Robert Warren
+[Github link](https://github.com/warrenrobert127/pwa)
+[Deployed link]( https://warrenrobert127.github.io/pwa/)
 
 ## Questions
 If you have any questions about this projects, please contact me directly at warrenrobert127@gmail.com. You can view more of my projects at https://github.com/warrenrobert127/pwa.
