@@ -17,7 +17,7 @@ This project is an application that allows users to add expenses and deposits to
 After clonig the repo run 'npm start'.
 
 ## usage
-[image](https://user-images.githubusercontent.com/20363030/155906729-4be418ca-4484-4b02-a330-a27f611aa9d4.png)
+![image](https://user-images.githubusercontent.com/20363030/155906729-4be418ca-4484-4b02-a330-a27f611aa9d4.png)
 
 ## License 
 This project is license under MIT
